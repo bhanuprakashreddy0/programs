@@ -1,2 +1,2 @@
 # programs
-repository contains python programs
+ This repository contains python programs
